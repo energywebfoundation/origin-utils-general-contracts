@@ -1,0 +1,14 @@
+{
+  "name": "ew-utils-general-contracts",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.slock.it/ewf/origin/utils/ew-utils-general-contracts.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
