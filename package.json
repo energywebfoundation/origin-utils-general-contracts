@@ -7,8 +7,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://git.slock.it/ewf/origin/utils/ew-utils-general-contracts.git"
-  },
-  "author": "",
-  "license": "ISC"
+    "url": "https://github.com/energywebfoundation/origin-utils-general-contracts.git"
+  }
 }
